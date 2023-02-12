@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whritegereon
 - 👀 I’m interested in existing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,c++
 - 📫 How to reach me - no way
 
 <!---
